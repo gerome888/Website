@@ -1,10 +1,11 @@
-<1DOCTYPE HTML>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-  <title>My Website</Title>
-  <meta charset="utf-8">
+<title>FabianSnewWebsite</title>
 </head>
 <body>
-<h1>Heading 1</h1>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<img src="images/cats.jpg" alt="cats" width="600" height="197">
 </body>
 </html>
